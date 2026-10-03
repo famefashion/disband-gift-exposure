@@ -166,7 +166,7 @@ AV:N / AC:L / PR:L / UI:N / S:U / C:H / I:H / A:N  →  8.1 HIGH
 
 <div align="center">
 
-**Authorized disclosure** — published by the platform owner following a fully authorized security assessment.
+**Authorized disclosure** 
 
 *This advisory and its proof of concept are provided for defensive purposes. The PoC is read-only and does not claim, exhaust, or destroy anything.*
 

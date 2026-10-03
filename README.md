@@ -12,7 +12,7 @@
 [![Auth Required](https://img.shields.io/badge/Prerequisites-Any_Registered_User-blue?style=for-the-badge)](#)
 
 **Affected:** [disband.dev](https://www.disband.dev) — Supabase/PostgREST backend, `public.gifts` table + `claim_gift` RPC
-**Status:** 🟡 Unpatched at time of writing · disclosed by the platform owner · all exposed codes rotated
+**Status:** 🟡 Unpatched at time of writing · disclosed by famefashion · all exposed codes rotated
 
 </div>
 
